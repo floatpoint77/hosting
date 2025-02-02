@@ -1,6 +1,6 @@
 # 你在寻找客观真实的Kinsta主机评测吗
 
-作为由谷歌云（Google Cloud）提供技术支持的高端WordPress托管服务商，Kinsta以7×24小时全天候监控、闪电级客户支持和极速网站性能著称。这篇深度评测将为你揭开：
+作为由谷歌云（Google Cloud）提供技术支持的高端WordPress托管服务商，[Kinsta](https://kinsta.com/pricing/?kaid=KTAXXKDXLIBP)以7×24小时全天候监控、闪电级客户支持和极速网站性能著称。这篇深度评测将为你揭开：
 
 ▸ Kinsta究竟是何方神圣？
 ▸ 性能实测数据大公开
@@ -89,9 +89,9 @@ WooCommerce专属优化 |
 
 ⚡ **速度实测**：
 谷歌PageSpeed Insights斩获98分，核心性能指标全绿：
-- LCP（最大内容渲染）：2.2秒
-- TBT（总阻塞时间）：40ms  
-- CLS（布局偏移指数）：0.08
+- LCP（最大内容渲染）：2.1秒
+- TBT（总阻塞时间）：38ms  
+- CLS（布局偏移指数）：0.06
 
 ---
 
