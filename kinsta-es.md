@@ -44,4 +44,4 @@ Kinsta no es solo un servicio de hosting; es una experiencia. Es el Ferrari de l
 
 Si buscas la crème de la crème del hosting, si anhelas un rendimiento que desafíe las leyes de la física digital, Kinsta es tu destino. No es solo un proveedor; es un socio en tu viaje hacia la excelencia web.
 
-¿Estás listo para experimentar el futuro del hosting? [Kinsta](https://kinsta.com/pricing/?kaid=KTAXXKDXLIBP) te espera, con los motores rugiendo y la alfombra roja desplegada. ¡Adelante, el ciberespacio nunca ha sido tan emocionante!
+¿Estás listo para experimentar el futuro del hosting? [Kinsta](https://kinsta.com/pricing/?kaid=KTAXXKDXLIBP) [te espera, con los motores rugiendo y la alfombra roja desplegada. ¡Adelante, el ciberespacio nunca ha sido tan emocionante!](https://kinsta.com/pricing/?kaid=KTAXXKDXLIBP)
